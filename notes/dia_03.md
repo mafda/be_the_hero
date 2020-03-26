@@ -15,6 +15,8 @@
     * Estado
         * Informação que vai ser mantida pelo componente
     * Imutabilidade
+        * Não pode alterar o valor de estado de forma direta, precisamos
+          sobrepor o valor de estado.
 
 * Pagina de login
 
