@@ -19,6 +19,7 @@
           sobrepor o valor de estado.
 
 * Pagina de login
+    * `npm install react-icons`
 
 * Configurando rota
 
