@@ -28,6 +28,8 @@
     * Logon
 
 * Listagem de casos
+    * Register
+    * Profile
 
 * Cadastro de um novo caso
 
