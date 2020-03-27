@@ -32,6 +32,7 @@
     * Profile
 
 * Cadastro de um novo caso
+    * New incident
 
 * Conectando aplicação à API
 
