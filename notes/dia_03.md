@@ -22,8 +22,10 @@
     * `npm install react-icons`
 
 * Configurando rota
+    * `npm install react-router-dom`
 
 * Cadastro de ONGs
+    * Logon
 
 * Listagem de casos
 
