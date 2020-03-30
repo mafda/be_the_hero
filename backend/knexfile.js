@@ -7,10 +7,10 @@ module.exports = {
     connection: {
       filename: './src/database/db.sqlite'
     },
-      migrations: {
-          directory: './src/database/migrations/'
-      },
-      useNullAsDefault: true,
+    migrations: {
+      directory: './src/database/migrations/'
+    },
+    useNullAsDefault: true,
   },
 
   staging: {
