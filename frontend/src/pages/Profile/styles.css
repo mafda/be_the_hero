@@ -6,7 +6,7 @@
 }
 
 .profile-container header {
-	display: flex;;
+	display: flex;
 	align-items: center;
 }
 
@@ -63,6 +63,8 @@
 	right: 24px;
 	top: 24px;
 	border: 0;
+    transition: opacity 0.2s;
+    background: transparent;
 }
 
 .profile-container ul li button:hover {

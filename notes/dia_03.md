@@ -35,5 +35,7 @@
     * New incident
 
 * Conectando aplicação à API
+    * 'npm start' > backend 
+    * `npm install axios` > frontend (cliente HTTP )
 
 * Enviar projeto ao Github
