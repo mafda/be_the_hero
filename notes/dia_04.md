@@ -1,24 +1,33 @@
 # Quarto dia
 
 * Instalação Expo
+	* `npm install -g expo-cli`
+	* `expo -h`
 
 * Criando projeto React Native
+	* `expo init mobile`
+		* `expo template blank`
 
 * Executando projeto
 	* No celular
+		* `npm start`
 	* Emuladores
 	* Expo Snack
 
 * Diferenças para o ReactJS
 	* Elementos HTML
+		* <div> <span> <p> <h1> ... 
+		* react native -> <View> <Text> ...
 	* Semantica
+		* Não tem semantica
 	* Estilização
-		* Flexbox
-		* Propiedades
-		* Herença de estilos
+		* Flexbox: display flex por padrão
+		* Propiedades: background-color (css) -> backgroundColor
+		* Herença de estilos: Não existe herança de estilos no react native. 
 		* Estilização propia
 
 * Estrutura de pastas
+	* Reload
 
 * Ícone e Splash Screen
 
