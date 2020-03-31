@@ -32,6 +32,10 @@
 * Ícone e Splash Screen
 
 * Configurando navegação
+	* `npm install @react-navigation/native`
+	* https://reactnavigation.org/docs/getting-started
+	* `expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
+	* `npm install @react-navigation/stack`
 
 * Pagina de casos
 
