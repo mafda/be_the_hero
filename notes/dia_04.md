@@ -43,6 +43,7 @@
 * Detalhe do caso
 
 * Abrindo Whatsapp e e-mail
+	* `expo install expo-mail-composer`
 
 * Conexão com a API
 
