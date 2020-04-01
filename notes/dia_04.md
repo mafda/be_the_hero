@@ -46,5 +46,9 @@
 	* `expo install expo-mail-composer`
 
 * Conexão com a API
+	* `npm start` > backend
+	* `npm install axios` > mobile
+	* ` ip address show`
+	* `npm install intl`
 
 * Enviando projeto ao Github
