@@ -38,6 +38,7 @@
 	* `npm install @react-navigation/stack`
 
 * Pagina de casos
+	* `expo install expo-constants`
 
 * Detalhe do caso
 
