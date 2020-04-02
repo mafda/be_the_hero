@@ -24,6 +24,9 @@
 
 * Deploy
 	* Alternativas
+		* Heroku
+		* Digital Ocean
+		* Netlify
 	* Qual escolher?
 
 * Estudos daqui pra frente
