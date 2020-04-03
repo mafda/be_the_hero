@@ -36,4 +36,4 @@ Para testar o projeto *"Be The Hero"*, instale o [Insomnia](https://insomnia.res
 
 ## Licença
 
-[MIT License](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
