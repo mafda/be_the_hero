@@ -22,15 +22,16 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ## Resultados
 
-### Web
+### Aplicação Web
 
 ![be-the-hero-web](img/bethehero.png)
 
-### Mobile
+### Aplicação Mobile
 
 ![be-the-hero-mobile](img/bethehero-mobile.png)
 
 ## Insomnia
 
+Para testar o projeto *"Be The Hero"*, instale o (Insomnia)[https://insomnia.rest/] ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
 
 ## Licença
