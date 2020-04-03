@@ -1,4 +1,3 @@
-// importar o modulo express para a variavel express
 const express = require('express');
 const cors = require('cors');
 const { errors } =  require('celebrate');

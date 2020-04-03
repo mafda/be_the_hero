@@ -37,7 +37,7 @@ routes.get('/profile', celebrate({
 routes.get('/incidents', celebrate({
   [Segments.QUERY]: Joi.object().keys({
     id: Joi.number().required(),
-  })
+  }),
 }), IncidentController.index);
 
 
@@ -46,7 +46,7 @@ routes.post('/incidents', IncidentController.create);
 routes.delete('/incidents/:id', celebrate({
   [Segments.PARAMS]: Joi.object().keys({
     id: Joi.number().required(),
-  })
+  }),
 }), IncidentController.delete);
 
 module.exports = routes;
