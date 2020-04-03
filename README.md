@@ -24,6 +24,13 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ### Web
 
-![be-the-her-web](img/bethehero.png)
+![be-the-hero-web](img/bethehero.png)
 
 ### Mobile
+
+![be-the-hero-mobile](img/bethehero-mobile.png)
+
+## Insomnia
+
+
+## Licença
