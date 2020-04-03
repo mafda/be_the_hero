@@ -32,6 +32,8 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ## Insomnia
 
-Para testar o projeto *"Be The Hero"*, instale o (Insomnia)[https://insomnia.rest/] ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
+Para testar o projeto *"Be The Hero"*, instale o [Insomnia](https://insomnia.rest/) ou execute via docker container [docker-insomnia](https://github.com/camiloariza/docker-insomnia).
 
 ## Licença
+
+[MIT License](LICENSE).
