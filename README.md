@@ -20,3 +20,10 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 	* [Expo](https://expo.io/): Plataforma de código aberto para criar aplicativos nativos universais para Android, iOS e web com JavaScript e React.
 
+## Resultados
+
+### Web
+
+![be-the-her-web](img/bethehero.png)
+
+### Mobile
